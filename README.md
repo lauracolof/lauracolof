@@ -20,13 +20,14 @@ In my past as a gastronomic, dealing with the customer as well as with different
 
 ### Skills:  
 I have knowledge in: 
-JavaScript
-Node.js
-Express
-Sequelize
-MongoDB
-React
-Redux, among others. In addition to Git and GitHub, of course! At the moment I'm currently delving deeper into TypeScript. I also use tools like VSCode, Trello, Postman, pgAdmin4, Notion and others.  
+- JavaScript
+- Node.js
+- Express
+- Sequelize
+- MongoDB
+- React
+- Redux, 
+<br/>among others. In addition to Git and GitHub, of course! At the moment I'm currently delving deeper into TypeScript. I also use tools like VSCode, Trello, Postman, pgAdmin4, Notion and others.  
   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauracolof&hide_border=true&layout=compact" align="left" />  
