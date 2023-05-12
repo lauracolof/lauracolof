@@ -6,7 +6,7 @@
 
 
 ### Who I am?   
-#### <div align="center">I'm a Full Stack Web Developer 🧑‍💻 graduated from the Henry Bootcamp and also as Back End Developer from IBEC. I am passionate about technology and acquiring new knowledge </div>  
+<div align="center">I'm a Full Stack Web Developer 🧑‍💻 graduated from the Henry Bootcamp and also as Back End Developer from IBEC. I am passionate about technology and acquiring new knowledge </div>  
   
 
 
