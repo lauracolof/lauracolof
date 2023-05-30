@@ -2,12 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 400px" />
 </div>  
   
-### Who I am?   
+### About me:    
 <div align="center">My name is Laura, and in 2020, I decided to embark on a new professional path and started studying programming by myself. Since then, my passion for the world of technology has continued to grow. </div>  
-<div align="center"> In 2021, I graduated as a Back End Developer from the IBEC Institute. Motivated to keep learning and expand my skills, in June 2022, I started my studies at Henry, where I had the honor of obtaining my degree as a Full Stack Web Developer.
+<div align="center"> In 2021, I graduated as a Back End Developer from the IBEC Institute. Motivated to keep learning and expand my skills, in June 2022, I started my studies at Henry, where I had the honor of obtaining my degree as a **Full Stack Web Developer**.
 </div>  
 
-### Where do I go?    
 <div align="center">Thanks to my background in the culinary field, I developed some of my soft skills, which include my appreciation for teamwork and collaboration. I am also passionate about challenges and am motivated by tackling complex problems, seeking effective solutions and working collaboratively to achieve outstanding results. My adaptability and perseverance have enabled me to overcome obstacles and achieve my goals at all stages of my professional life.
 
 I am eager to continue learning and developing in the field of programming, and I am confident that a company provides the right environment for me to grow and thrive. I would love to have the opportunity to be part of a team and contribute my knowledge and skills to achieve common objectives.</div>  
