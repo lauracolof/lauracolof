@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 400px" />
 </div>  
-  
 ### About me:    
 <div align="center">My name is Laura, and in 2020, I decided to embark on a new professional path and started studying programming by myself. Since then, my passion for the world of technology has continued to grow. </div>  
 <div align="center"> In 2021, I graduated as a Back End Developer from the IBEC Institute. Motivated to keep learning and expand my skills, in June 2022, I started my studies at Henry, where I had the honor of obtaining my degree as a **Full Stack Web Developer**.
