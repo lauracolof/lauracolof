@@ -2,39 +2,26 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 400px" />
 </div>  
   
-
-
-
 ### Who I am?   
-<div align="center">I'm a Full Stack Web Developer 🧑‍💻 graduated from the Henry Bootcamp and also as Back End Developer from IBEC. <br/> But, overall I am passionate about technology and acquiring new knowledge </div>  
-  
+<div align="center">My name is Laura, and for over 10 years, I dedicated myself to the gastronomic field, where I gained valuable experience in the industry. However, in 2020, I decided to embark on a new professional path and started studying programming by myself. Since then, my passion for the world of technology has continued to grow. </div>  
 
-
-
-### Where do I come from?  
-<div align="center">I became interested in the world of programming a few years ago and little by little, I've been learning as I progressed doing some personal practice projects. </div>  
-  
-
-
+<div align="center"> In 2021, I graduated as a Back End Developer from the IBEC Institute, acquiring strong knowledge in programming languages and related tools. Motivated to keep learning and expand my skills, in June 2022, I enrolled in the Henry Bootcamp, where I had the opportunity to train as a Full Stack Web Developer. I am proud to say that I successfully completed this program in February 2023.
+</div>  
 
 ### Where do I go?    
-<div align="center">Once I was able to devote more time to my studies, my passion for technology increased. Now my goal is to become a professional programmer and, thanks to that, I can make a change of direction in my life. I hope someday to make my mark in the industry, there is still a lot to do. </div>  
+<div align="center">Currently, I am seeking my first job in the field of Information Technology. I am excited to apply the theoretical and practical knowledge I have gained during my studies and turn them into innovative solutions to contribute to the growth of your company.
+
+In addition to my academic background, I also possess skills and qualities that I consider essential in this field. Some of my soft skills include my appreciation for teamwork and collaboration. I am also passionate about challenges and I am motivated to tackle complex problems, seek effective solutions and work collaboratively to achieve outstanding results. My adaptability and perseverance have allowed me to overcome obstacles and achieve my goals at all stages of my professional life.
+
+I am eager to continue learning and developing in the field of programming, and I am confident that a company provides the right environment for me to grow and thrive. I would love to have the opportunity to be part of a team and contribute my knowledge and skills to achieve common objectives.. </div>  
   
-
-
-
-### Soft skills:   
-<div align="center">In my past as a gastronomic, dealing with the customer as well as with different coworkers, I have developed soft skills of companionship, group work, also autonomy, among others.  </div>  
-  
-
-
-
-### Skills:  
+### Tech Skills:  
 
 I have knowledge of technologies such as: 
 - JavaScript
 - TypeScript
-- Node.js
+- Node.js,
+- NestJS
 - Express
 - Sequelize
 - TypeORM
